@@ -1,0 +1,18 @@
+Python Notes
+
+
+Git Notes
+
+
+git status
+
+git clone <repo>
+
+
+
+git status
+git add .
+git commit -m "My first Exercise from this book"
+
+Github Token
+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
