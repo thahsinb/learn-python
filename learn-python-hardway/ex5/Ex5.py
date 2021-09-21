@@ -14,3 +14,4 @@ print("I have got %s eyes and %s hair." %(my_eyes,my_hair))
 print("My teeth are usually %s depending on the chocolate I eat." %my_teeth)
 
 print("If I add %d, %d and %d. I get %d." %(my_age,my_height,my_weight, my_age+my_height+my_weight))
+
