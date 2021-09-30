@@ -1,0 +1,6 @@
+print("Hey Zaki")
+print("I just want you to know, nevermind, it doesnt really matters.")
+print("Okay! lemme not exaggerate this.")
+print("I do not know whether you've heard this or not.")
+print("You are a good man.")
+print("And I love you.")
